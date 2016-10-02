@@ -41,7 +41,7 @@ To run the program, the Python file entertainment_center.py needs to be executed
 Find out the file's path and type the following command on the Command Prompt:
 
 ```
-python [entertainment_center.py path]
+python path_to_file
 ```
 
 ## Conclusion
