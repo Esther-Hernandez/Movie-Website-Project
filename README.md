@@ -29,7 +29,7 @@ The Movie Website Project was created for the Full Stack Developer course at Uda
   
 ## Requirements
  
-The project is intended to run using Python version 2.7.12. A browser like Google Chrome can be used to view the output HTML file.
+The project is intended to run using Python version 2.7.12. A browser like Google Chrome can be use to view the output HTML file.
 
 ## Installation
 
